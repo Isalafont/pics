@@ -1,3 +1,8 @@
+# A Pinterest Like Training App in React. 
+
+A simple Search Bar App to fetch Image from Unsplash API and display them in a Pinterest like style.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
