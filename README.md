@@ -2,6 +2,7 @@
 
 A simple Search Bar App to fetch Image from Unsplash API and display them in a Pinterest like style.
 
+![Capture d’écran 2022-04-14 à 13 01 06](https://user-images.githubusercontent.com/43042737/163378368-d1a3d4d9-4f8e-4130-9e15-537ccf99657f.png)
 
 # Getting Started with Create React App
 
