@@ -8,4 +8,8 @@
 .image-list img {
   width: 250px;
   grid-row-end: span 2;
+  border-radius: 8px;
+  -webkit-box-shadow: 7px 7px 28px -6px rgba(0,0,0,0.29);
+  -moz-box-shadow: 7px 7px 28px -6px rgba(0,0,0,0.29);
+  box-shadow: 7px 7px 28px -6px rgba(0,0,0,0.29);
 }
